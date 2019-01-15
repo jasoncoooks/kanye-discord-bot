@@ -1,5 +1,2 @@
 discord.py
 asyncio
-time
-random
-selenium
