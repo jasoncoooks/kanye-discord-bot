@@ -7,7 +7,7 @@ import time
 import random
 
 facts = ['I gave Donald the pass','We came into a broken world. And were the cleanup crew.','If you have the opportunity to play this game of life you need to appreciate every moment. a lot of people don’t appreciate the moment until it’s passed.','We all self-conscious. I’m just the first to admit it.','If I was just a fan of music, I would think that I was the number one artist in the world.','Love your haters, they’re your biggest fans.','I love it','Every man loves men. Facts.','The prettiest people do the ugliest things.']
-token = "NTMzMjM2NDAxMzExOTczMzc2.Dx5p9w.c6vyN5dsgLlyktPg19eImJUtw8Q"
+token = ""
 Client = discord.Client()
 client = commands.Bot(command_prefix = "kanye, ")
 
